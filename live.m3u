@@ -135,6 +135,35 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226587/index.m3u8
 #EXTINF:-1 tvg-id="wuxtysports" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226589/index.m3u8
 
+#=============== 咪咕体育 ===============#
+
+#EXTINF:-1 tvg-id="migutiyu1" tvg-name="咪咕体育1" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育1
+https://liveali-tp-cdn.migucloud.com/directlive/f23d6c0b1df646649790e69a9d87a932_6000.m3u8
+
+#EXTINF:-1 tvg-id="migutiyu2" tvg-name="咪咕体育2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育2
+https://liveali-tp-cdn.migucloud.com/directlive/6d9e36e1a6dd45f98c59c68eb0e5d3e6_6000.m3u8
+
+#EXTINF:-1 tvg-id="migutiyu3" tvg-name="咪咕体育3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育3
+https://liveali-tp-cdn.migucloud.com/directlive/5cfb8dc165e8419bbe44eb340e6ac4c4_6000.m3u8
+
+#EXTINF:-1 tvg-id="migutiyu4" tvg-name="咪咕体育4" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育4
+https://liveali-tp-cdn.migucloud.com/directlive/61a33aa2d9364e079fe6a10f64929bbe_6000.m3u8
+
+#EXTINF:-1 tvg-id="migutiyu5" tvg-name="咪咕体育5" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕体育5
+https://liveali-tp-cdn.migucloud.com/directlive/ae37ad209f3c4d668ff0f56d23b20778_6000.m3u8
+
+#EXTINF:-1 tvg-id="migulanqiu" tvg-name="咪咕篮球" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕篮球
+https://liveali-tp-cdn.migucloud.com/directlive/bef3f63a92a6427fbf8aa2560e8e9795_6000.m3u8
+
+#EXTINF:-1 tvg-id="miguzuqiu" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕足球
+https://liveali-tp-cdn.migucloud.com/directlive/13d5cc6f3a5446d9be393b3b4cfea03a_6000.m3u8
+
+#EXTINF:-1 tvg-id="miguCBA" tvg-name="咪咕CBA" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕CBA
+https://liveali-tp-cdn.migucloud.com/directlive/6a0f68e6d7d04ab7ab37af3d9e9d617d_6000.m3u8
+
+#EXTINF:-1 tvg-id="miguNBA" tvg-name="咪咕NBA" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕体育",咪咕NBA
+https://liveali-tp-cdn.migucloud.com/directlive/7fcc1f7e9dd04c29a0c50ecf4e31fcf2_6000.m3u8
+
 #=============== 国际频道 ===============#
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="国际",CCTV-4 中文国际
